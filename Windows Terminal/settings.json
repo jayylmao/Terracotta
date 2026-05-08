@@ -1,0 +1,23 @@
+{
+    "background": "#423A3A",
+    "black": "#423A3A",
+    "blue": "#7E929E",
+    "brightBlack": "#64392D",
+    "brightBlue": "#8DB3C5",
+    "brightCyan": "#93C4C1",
+    "brightGreen": "#B4BF96",
+    "brightPurple": "#C296A4",
+    "brightRed": "#E05A30",
+    "brightWhite": "#F2E9E1",
+    "brightYellow": "#E8D4A2",
+    "cursorColor": "#E05A30",
+    "cyan": "#6DA5A3",
+    "foreground": "#E0D1C1",
+    "green": "#899971",
+    "name": "Terracotta",
+    "purple": "#A37E8A",
+    "red": "#DF562C",
+    "selectionBackground": "#FFFFFF",
+    "white": "#C9C2BB",
+    "yellow": "#F5BA7C"
+}
